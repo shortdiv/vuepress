@@ -105,6 +105,7 @@ const release = async () => {
     version,
     '--force-publish',
     '--npm-tag',
+    '--otp',
     npmTag,
     '*'
   ]

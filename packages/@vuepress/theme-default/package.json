@@ -37,5 +37,6 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "vuepress-plugin-container": "^2.0.0"
-  }
+  },
+  "gitHead": "fb72e519f051229767a841ef0e8df0480ca56744"
 }

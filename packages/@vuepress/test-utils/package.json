@@ -38,5 +38,6 @@
   "bugs": {
     "url": "https://github.com/vuejs/vuepress/issues"
   },
-  "homepage": "https://github.com/vuejs/vuepress/packages/@vuepress/test-utils#readme"
+  "homepage": "https://github.com/vuejs/vuepress/packages/@vuepress/test-utils#readme",
+  "gitHead": "fb72e519f051229767a841ef0e8df0480ca56744"
 }

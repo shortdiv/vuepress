@@ -25,5 +25,6 @@
   "homepage": "https://github.com/vuejs/vuepress/packages/@vuepress/plugin-register-components#readme",
   "dependencies": {
     "@vuepress/shared-utils": "^1.1.0"
-  }
+  },
+  "gitHead": "fb72e519f051229767a841ef0e8df0480ca56744"
 }
